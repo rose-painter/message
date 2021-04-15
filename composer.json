@@ -1,5 +1,5 @@
 {
-    "name": "binlogMessage/daemons",
+    "name": "binlog-message/daemons",
     "type": "project",
     "require": {
         "krowinski/php-mysql-replication": "^6.2",
