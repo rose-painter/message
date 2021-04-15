@@ -13,6 +13,6 @@
         }
     ],
     "autoload": {
-        "psr-4": {"Message\\": "src/"}
+        "psr-4": {"binlogMessage\\": "src/"}
     }
 }
